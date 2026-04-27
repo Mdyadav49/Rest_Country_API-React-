@@ -1,0 +1,37 @@
+main .shimmer-card {
+    --shimmer-color: hsl(0, 0%, 78%);
+}
+
+main.dark .shimmer-card {
+    --shimmer-color: hsl(208, 21%, 34%);
+}
+
+
+.shimmer-card {
+    height: 338px;
+    background-color: var(--elements-color);
+}
+
+.shimmer-card .flag-container {
+    height:40%;
+    background-color: var(--shimmer-color);
+    margin-bottom:20px;
+}
+
+.shimmer-card .card-title {
+    height: 32px;
+    background-color: var(--shimmer-color);
+    border-radius: 4px;
+    margin-bottom:20px;
+}
+
+.shimmer-card p {
+    height: 22px;
+    border-radius: 4px;
+    background-color: var(--shimmer-color);
+    margin-bottom:20px;
+}
+
+.shimmer-card p:last-child {
+    width: 60%;
+}   
