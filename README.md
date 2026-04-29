@@ -20,15 +20,42 @@
 ---
 
 ## 📸 Preview
-
+Supports both **Light Mode 🌞** and **Dark Mode 🌙**
 
 ### 🌐 Home Page
-![Home](https://placehold.co/1000x500/1a1a2e/FFF?text=Home)
+
+<details>
+<summary>🌞 Light Mode Preview (Click to expand)</summary>
+
+![Light Mode](/assets/preview_Images/home_lightmode.png)
+
+</details>
+
+<details>
+<summary>🌙 Dark Mode Preview (Click to expand)</summary>
+
+![Dark Mode](/assets/preview_Images/home_darkmode.png)
+
+</details>
+
 
 ---
 
-### 📄 Details Page
-![Details](https://placehold.co/1000x500/1a1a2e/FFF?text=Details)
+### 🌐 Detail Page
+
+<details>
+<summary>🌞 Light Mode Preview (Click to expand)</summary>
+
+![Light Mode](/assets/preview_Images/country_lightmode.png)
+
+</details>
+
+<details>
+<summary>🌙 Dark Mode Preview (Click to expand)</summary>
+
+![Dark Mode](/assets/preview_Images/country_darkmode.png)
+
+</details>
 
 ## ⚡ What This Project Does
 
