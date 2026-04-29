@@ -10,6 +10,10 @@ body{
     --element-color: white;
     font-family: nunito, sans-serif;
 }
+body::-webkit-scrollbar {
+  display: none;
+}
+
 main , header{
     background-color:var(--background-color);
     color:var(--text-color);
