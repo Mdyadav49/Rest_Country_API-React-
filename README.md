@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_NETLIFY_LINK">
+  <a href="https://rest-country-api-41e81a.netlify.app/">
     <img src="https://img.shields.io/badge/🚀_Live_App-16A34A?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_GITHUB_REPO_LINK">
+  <a href="https://github.com/Mdyadav49/Rest_Country_API-React-">
     <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
