@@ -7,17 +7,20 @@
   Built with React, optimized for performance and UX.
 </p>
 
+&nbsp;&nbsp; 
+
 <p align="center">
-  <a href="https://rest-country-api-41e81a.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀_Live_App-16A34A?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mdyadav49/Rest_Country_API-React-">
-    <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://construction-websit.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_Live_Project-16A34A?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mdyadav49/Construction_Website/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/📂_View_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
+
 
 ## 📸 Preview
 Supports both **Light Mode 🌞** and **Dark Mode 🌙**
@@ -37,7 +40,6 @@ Supports both **Light Mode 🌞** and **Dark Mode 🌙**
 ![Dark Mode](/assets/preview_Images/home_darkmode.png)
 
 </details>
-
 
 ---
 
